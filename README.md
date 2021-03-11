@@ -2,6 +2,18 @@
 My name is logicguy or Drill as my friends call me
 
 ### Here are some of my other projects
+
+
+
+
+<table>
+  <tr>
+    <th> Good </th>
+    <th> Bad </th>
+  </tr>
+  <tr>
+    <td>
+
 * [Advent-of-code](https://github.com/logicguy1/Advent-of-code)  
   My submissions to advent of code 
 * [Flappy-Bird](https://github.com/logicguy1/Flappy-Bird)  
@@ -14,6 +26,11 @@ My name is logicguy or Drill as my friends call me
   Create a cool triange thing to show off to your friends 
 * [Prime-Numbers](https://github.com/logicguy1/Prime-Numbers)  
   Get prime numbers using a brute force method 
+
+    </td>
+    <td>
+
+
 * [Sorting-Visualized](https://github.com/logicguy1/Sorting-Visualized)  
   A python script that visualizes 3 diffrent methods of sorting a list 
 * [Url-Shortener](https://github.com/logicguy1/Url-Shortener)  
@@ -25,35 +42,8 @@ My name is logicguy or Drill as my friends call me
 * [Tic-Tac-Toe](https://github.com/logicguy1/Tic-Tac-Toe)  
   A simple tic tac toe game with 2 players
 
-
-
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 
