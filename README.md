@@ -26,7 +26,7 @@ My name is logicguy or Drill as my friends call me
 
     </td>
     <td>
-
+  
 * [Sorting-Visualized](https://github.com/logicguy1/Sorting-Visualized)  
   A python script that visualizes 3 diffrent methods of sorting a list 
 * [Url-Shortener](https://github.com/logicguy1/Url-Shortener)  
@@ -37,6 +37,8 @@ My name is logicguy or Drill as my friends call me
   A script that can detect motion from your webcam 
 * [Tic-Tac-Toe](https://github.com/logicguy1/Tic-Tac-Toe)  
   A simple tic tac toe game with 2 players
+* nothing  
+  at the moment
 
     </td>
   </tr>
