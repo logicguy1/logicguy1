@@ -7,10 +7,7 @@ My name is logicguy or Drill as my friends call me
 
 
 <table>
-  <tr>
-    <th> Good </th>
-    <th> Bad </th>
-  </tr>
+
   <tr>
     <td>
 
@@ -29,7 +26,6 @@ My name is logicguy or Drill as my friends call me
 
     </td>
     <td>
-
 
 * [Sorting-Visualized](https://github.com/logicguy1/Sorting-Visualized)  
   A python script that visualizes 3 diffrent methods of sorting a list 
