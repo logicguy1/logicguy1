@@ -23,8 +23,8 @@ My name is logicguy or Drill as my friends call me
 ܍ [Prime-Numbers](https://github.com/logicguy1/Prime-Numbers)   
   Get prime numbers using a brute force method  
 
-    </td>
-    <td>
+  </td>
+  <td>
 
 ܍ [Sorting-Visualized](https://github.com/logicguy1/Sorting-Visualized)   
   A python script that visualizes 3 diffrent methods of sorting a list  
@@ -39,7 +39,7 @@ My name is logicguy or Drill as my friends call me
 ܍ [logicguy1.github.io](https://github.com/logicguy1/logicguy1.github.io)   
   My little website click [here](https://logicguy1.github.io) to see  
 
-    </td>
+  </td>
   </tr>
 </table>
 
