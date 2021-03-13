@@ -36,8 +36,8 @@ My name is logicguy or Drill as my friends call me
   A script that can detect motion from your webcam 
 * [Tic-Tac-Toe](https://github.com/logicguy1/Tic-Tac-Toe)  
   A simple tic tac toe game with 2 players
-* nothing  
-  at the moment
+* [logicguy1.github.io](https://github.com/logicguy1/logicguy1.github.io)  
+  My little website click [here](https://logicguy1.github.io) to see
 
     </td>
   </tr>
