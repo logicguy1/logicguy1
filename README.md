@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is logicguy or Drill as my friends call me  
-If you want to contact me **[join my discord server](https://discord.gg/kDscttj9xY)** or message me [**Drillenissen#4268**]()
+If you want to contact me **[join my discord server](https://discord.gg/kDscttj9xY)** or send me a dm @ [**Drillenissen#4268**]()
 
 ### Here are some of my other projects
 
