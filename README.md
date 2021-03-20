@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 My name is logicguy or Drill as my friends call me  
 If you want to contact me **[join my discord server](https://discord.gg/kDscttj9xY)** or send me a dm @ [**Drillenissen#4268**]()   
-<img src="https://discord.com/api/guilds/804295436008685609/widget.png?style=banner2" alt="Anonix"/>
 
 
 ### Here are some of my other projects
