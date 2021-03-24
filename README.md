@@ -1,6 +1,8 @@
 <!--
 **logicguy1/logicguy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://img.shields.io/github/stars/logicguy1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
