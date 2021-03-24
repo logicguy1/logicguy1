@@ -1,7 +1,6 @@
 <!--
 **logicguy1/logicguy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://img.shields.io/github/stars/logicguy1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge">
 
 Here are some ideas to get you started:
 
@@ -15,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<img src=https://img.shields.io/github/stars/logicguy1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge />
+</p>
 
 ### Hi there 👋
 My name is logicguy or Drill as my friends call me  
