@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src=https://img.shields.io/github/stars/logicguy1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge />
+<img src=https://img.shields.io/github/stars/logicguy1?affiliations=OWNER%2CCOLLABORATOR />
 <img src=https://komarev.com/ghpvc/?username=logicguy1 />
 <img src=https://img.shields.io/github/forks/logicguy1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge />
 <img src=https://img.shields.io/github/watchers/logicguy1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge />
