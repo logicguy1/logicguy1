@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src=https://komarev.com/ghpvc/?username=logicguy1 />
 </p>
 
-## Sup Gamers 👋
+## Hello fellow developer 👋
 How all you beautiful humans doing?
 
 ### About Me 📌
