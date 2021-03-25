@@ -33,9 +33,9 @@ My name is logicguy or Drill as my friends call me
 ### Fun fact 😄
 I started programming at the age of 9, also Isaac Newton _invented_ gravaty
 
-### Contact Me 📫
-Personal Discord account: [**Drillenissen#4268**](https://www.discord.gg)   
-Discord server: **[discord.gg/kDscttj9xY](https://discord.gg/kDscttj9xY)** 
+### Contact Me 📫  
+Personal Discord account: [**Drillenissen#4268**](https://www.discord.gg)  
+Discord server: **[discord.gg/kDscttj9xY](https://discord.gg/kDscttj9xY)**  
 
 ### Here are some of my small projects 📒
 
