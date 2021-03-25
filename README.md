@@ -25,7 +25,7 @@ My name is logicguy or Drill as my friends call me
 ### About Me 📌
 ![Metrics](https://metrics.lecoq.io/logicguy1?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen)
 
-### Special thanks
+### Special thanks ❤️
 - [Sebbl0508](https://github.com/Sebbl0508) - For the big help with spell checking many of my reposetories  
 - [Idun420](https://github.com/Idun420) - For being a good irl friend  
 
