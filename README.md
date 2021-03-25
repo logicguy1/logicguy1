@@ -25,6 +25,12 @@ My name is logicguy or Drill as my friends call me
 ### About Me 📌
 ![Metrics](https://metrics.lecoq.io/logicguy1?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen)
 
+### Special thanks
+<p>
+  <img src="https://avatars.githubusercontent.com/u/28149337?v=4" width=25px />
+  <a>Sebbl0508 - For the big help with spell checking many of my reposetories</a>
+</p>
+
 ### Fun fact 😄
 I started programming at the age of 9, also Isaac Newton _invented_ gravaty
 
