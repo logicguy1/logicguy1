@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src=https://img.shields.io/github/stars/logicguy1?affiliations=OWNER%2CCOLLABORATOR />
-<img src=https://komarev.com/ghpvc/?username=logicguy1 />
+<img alt="" src=https://img.shields.io/github/stars/logicguy1?affiliations=OWNER%2CCOLLABORATOR />
+<img alt="" src=https://komarev.com/ghpvc/?username=logicguy1 />
 </p>
 
 ## Hello fellow developer 👋
