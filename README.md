@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 My name is logicguy or Drill as my friends call me  
-If you want to contact me **[join my discord server](https://discord.gg/kDscttj9xY)** or send me a dm @ [**Drillenissen#4268**]()   
 
+### Fun fact 😄
+I started programming at the age of 9 also Isaac Newton invented gravaty
 
-### Here are some of my other projects
+### Contact Me 📫
+Personal Discord account: [**Drillenissen#4268**](https://www.discord.gg)   
+Discord server: **[discord.gg/kDscttj9xY](https://discord.gg/kDscttj9xY)** 
+
+### Here are some of my small projects 💾
 
 <table>
   <tr>
@@ -62,3 +67,5 @@ If you want to contact me **[join my discord server](https://discord.gg/kDscttj9
   </td>
   </tr>
 </table>
+
+#### ⬇️⬇️⬇️ Remember to check out my most notable repositories ⬇️⬇️⬇️
