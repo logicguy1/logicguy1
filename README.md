@@ -22,16 +22,17 @@ Here are some ideas to get you started:
 ### Hi there 👋
 My name is logicguy or Drill as my friends call me  
 
+## About Me 📌
+![Metrics](https://metrics.lecoq.io/logicguy1?template=classic&repositories.forks=true&base.header=0&languages=1&people=1&lines=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=%20Sebbl0508%20&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FCopenhagen)
+
 ### Fun fact 😄
 I started programming at the age of 9 also Isaac Newton invented gravaty
-
-![Metrics](https://metrics.lecoq.io/logicguy1?template=classic&config.timezone=Europe%2FCopenhagen)
 
 ### Contact Me 📫
 Personal Discord account: [**Drillenissen#4268**](https://www.discord.gg)   
 Discord server: **[discord.gg/kDscttj9xY](https://discord.gg/kDscttj9xY)** 
 
-### Here are some of my small projects 💾
+### Here are some of my small projects 📒
 
 <table>
   <tr>
