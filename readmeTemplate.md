@@ -13,7 +13,7 @@
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
     <br />
-    <a href="https://github.com/logicguy1/REPOSETORY-NAME"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/logicguy1/REPOSETORY-NAME/docs/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/logicguy1/REPOSETORY-NAME/issues">Report Bug</a>
