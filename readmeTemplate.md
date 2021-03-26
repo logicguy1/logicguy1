@@ -8,10 +8,10 @@
 <p align="center">
     <img src="assets/logo.png" alt="Logo" width="150" height="150">
   
-  <h3 align="center">Discord Nitro Generator and Checker</h3>
+  <h3 align="center">REPOSETORY-NAME</h3>
 
   <p align="center">
-    A discord nitro generator and checker for all your nitro needs
+    DESCRIPTION
     <br />
     <a href="https://github.com/logicguy1/REPOSETORY-NAME/docs/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,7 +52,7 @@
 
 <img src="assets/example.png" alt="Image of product">
 
-It generates and checks discord nitro codes at the same time for maximum efficancy
+<!-- ABOUT -->
 
 ### Built With
 
@@ -88,6 +88,7 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 ## Copyright
 
 © 2020 Drillenissen#4268 all rights reserved
