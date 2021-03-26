@@ -75,4 +75,4 @@ Discord server: **[discord.gg/kDscttj9xY](https://discord.gg/kDscttj9xY)**
   </tr>
 </table>
 
-#### ⬇️⬇️⬇️ Remember to check out my most notable repositories ⬇️⬇️⬇️
+### ⬇️⬇️⬇️ Remember to check out my most notable repositories ⬇️⬇️⬇️
