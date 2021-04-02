@@ -29,7 +29,7 @@ How all you beautiful humans doing?
 I started programming at the age of 9, also Isaac Newton _invented_ gravaty
 
 ### Special thanks ❤️
-- [Sebbl0508](https://github.com/Sebbl0508) - For the big help with spell checking many of my reposetories  
+- [Sebbl0508](https://github.com/Sebbl0508) - For the big help with spell checking many of my repositories  
 - [Idun420](https://github.com/Idun420) - For being a good irl friend  
 
 ### Contact Me 📫  
