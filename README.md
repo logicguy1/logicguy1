@@ -54,6 +54,8 @@ Discord server: **[discord.gg/kDscttj9xY](https://discord.gg/kDscttj9xY)**
   Create a cool triange thing to show off to your friends  
 ܍ [Prime-Numbers](https://github.com/logicguy1/Prime-Numbers)   
   Get prime numbers using a brute force method  
+* [Maze Generator V2](https://github.com/logicguy1/Maze-Generator-V2/)  
+  Generate a maze and drop it into a picture  
 
   </td>
   <td>
