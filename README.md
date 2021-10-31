@@ -34,7 +34,7 @@ I started programming at the age of 9, also Isaac Newton _<u>invented</u>_ gravi
 
 ### Contact Me 📫  
 Personal Discord account: [**Drillenissen#4268**](https://www.discord.gg) Email: logicguy.mailandcontact@gmail.com  
-Discord server: **[discord.gg/kDscttj9xY](https://www.anonix.xyz/discord)**  
+Discord server: **[discord.gg/anon](https://www.anonix.xyz/discord)**  
 
 ### Here are some of my small projects 📒
 
