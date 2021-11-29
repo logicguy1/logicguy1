@@ -81,4 +81,8 @@ Discord server: **[discord.gg/anon](https://www.anonix.xyz/discord)**
   </tr>
 </table>
 
+## My gists
+
+You can find my gists [here](https://gist.github.com/logicguy1)
+
 ### ⬇️⬇️⬇️ Remember to check out my most notable repositories ⬇️⬇️⬇️
