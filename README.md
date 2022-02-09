@@ -31,6 +31,7 @@ I started programming at the age of 9, also Isaac Newton _<u>invented</u>_ gravi
 ### Special thanks ❤️
 - [Sebbl0508](https://github.com/Sebbl0508) - For the big help with spell checking many of my repositories  
 - [Idun420](https://github.com/Idun420) - For being a good irl friend  
+- [Reikimann](https://github.com/Reikimann) - For being a great linux guro
 
 ### Contact Me 📫  
 Personal matrix: [**drillenissen**](https://matrix.to/#/@drillenissen:matrix.org) Personal Discord account: [**Drillenissen#0666**](https://www.discord.gg) Email: logicguy.mailandcontact@gmail.com  
