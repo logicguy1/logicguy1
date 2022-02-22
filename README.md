@@ -48,9 +48,9 @@ Discord server: **[discord.gg/anon](https://www.anonix.xyz/discord)** Matrix ser
 ܍ [Flappy-Bird](https://github.com/logicguy1/Flappy-Bird)   
   A flappy bird game for when you're bored  
 ܍ [Setting-up-discord.py](https://github.com/logicguy1/Setting-up-discord.py)   
-  A tutorial on how to setup a discord.py development inviroment  
+  A tutorial on how to setup a discord.py development enviroment  
 ܍ [Rock-paiper-sissors](https://github.com/logicguy1/Rock-paiper-sissors)   
-  Play Rock paiper sissors with an ai, cause your a dev and have no friends  
+  Play Rock Paper Scissors with an AI, cause you're a dev and have no friends  
 ܍ [Pascal-s-triangle](https://github.com/logicguy1/Pascal-s-triangle)   
   Create a cool triange thing to show off to your friends  
 ܍ [Prime-Numbers](https://github.com/logicguy1/Prime-Numbers)   
