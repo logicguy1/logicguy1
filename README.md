@@ -67,8 +67,6 @@ I started programming at the age of 9, also Isaac Newton _<u>invented</u>_ gravi
   A script that can detect motion from your webcam  
 ܍ [Tic-Tac-Toe](https://github.com/logicguy1/Tic-Tac-Toe)   
   A simple tic tac toe game with 2 players  
-܍ [logicguy1.github.io](https://github.com/logicguy1/logicguy1.github.io)   
-  My little website click [here](https://logicguy1.github.io) to see  
 ܍ [Javascript Discord Token Logger](https://github.com/logicguy1/Javascript-Discord-Token-Logger)  
   Log discord tokens within the discord envioment 
 
