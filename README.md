@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 How all you beautiful humans doing?
 
 ### About Me 📌
-![Metrics](https://metrics.lecoq.io/logicguy1?template=classic&lines=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Europe%2FCopenhagen)
+![Metrics](github-metrics.svg)
 
 ### Fun fact 😄
 I started programming at the age of 9, also Isaac Newton _<u>invented</u>_ gravity
