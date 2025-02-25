@@ -1,4 +1,4 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -9,24 +9,32 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: logicguy1
           template: classic
-          base: activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_threshold: 0%
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
           plugin_lines: yes
-          plugin_people: yes
-          plugin_people_limit: 28
-          plugin_people_size: 28
-          plugin_people_thanks:  Sebbl0508 
-          plugin_people_types: followers, following
-          repositories_forks: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
