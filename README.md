@@ -33,46 +33,73 @@ I started programming at the age of 9, also Isaac Newton _<u>invented</u>_ gravi
 - [Idun420](https://github.com/Idun420) - For being a good irl friend  
 - [Reikimann](https://github.com/Reikimann) - For being a great linux guro
 
-### Here are some of my small projects 📒
+## Here are some of the projects i have worked on 📒
 
-<table>
-  <tr>
-    <td>
+### FrNet - Festival Volunteer Management System
+**Role:** Lead Developer | **Duration:** 4 Years, 3 Major Versions
+- Developed comprehensive volunteer coordination system
+- Implemented features for volunteer management, ticketing, meal tracking, and task assignment
+- Integrated SMS notification system for digital reminders
+- Deployed in real-world festival environments with iterative improvements based on user feedback
+- **Technologies:** `Python Flask`, `ReactJS`, `RESTful API Design`, `SMS Integration`
 
-܍ [Advent-of-code](https://github.com/logicguy1/Advent-of-code)   
-  My submissions to advent of code  
-܍ [Flappy-Bird](https://github.com/logicguy1/Flappy-Bird)   
-  A flappy bird game for when you're bored  
-܍ [Setting-up-discord.py](https://github.com/logicguy1/Setting-up-discord.py)   
-  A tutorial on how to setup a discord.py development enviroment  
-܍ [Rock-paiper-sissors](https://github.com/logicguy1/Rock-paiper-sissors)   
-  Play Rock Paper Scissors with an AI, cause you're a dev and have no friends  
-܍ [Pascal-s-triangle](https://github.com/logicguy1/Pascal-s-triangle)   
-  Create a cool triange thing to show off to your friends  
-܍ [Prime-Numbers](https://github.com/logicguy1/Prime-Numbers)   
-  Get prime numbers using a brute force method  
-܍ [Maze Generator V2](https://github.com/logicguy1/Maze-Generator-V2/)  
-  Generate a maze and drop it into a picture  
+### FOSS Lectio Improvements
+**Role:** Creator | **Open Source Project**
+- Developed browser extension enhancing Lectio (Danish education platform) while maintaining familiar UI
+- Implemented features including assignment filtering, deadline countdowns, profile images, and schedule visualization
+- Created custom visualization for grades and schedule blocks with color-coding for cancelled/modified classes
+- **Technologies:** `Browser Extension Development`, `JavaScript`, `CSS`
 
-  </td>
-  <td>
+### ChemCalc - Chemistry Calculation Tool
+**Role:** Developer
+- Created specialized tool for chemistry calculations including mole calculations, redox reactions, and concentration determination
+- Developed solver algorithms for various chemical equations
+- **Technologies:** `SymPy`, `Scientific Computation`, `Algorithm Design`, `Automated LaTeX`
 
-܍ [Sorting-Visualized](https://github.com/logicguy1/Sorting-Visualized)   
-  A python script that visualizes 3 diffrent methods of sorting a list  
-܍ [Url-Shortener](https://github.com/logicguy1/Url-Shortener)   
-  Shorten urls using flask  
-܍ [Url-Image-Downloader](https://github.com/logicguy1/Url-Image-Downloader)   
-  Download images or other files from a url  
-܍ [Motion-Detection](https://github.com/logicguy1/Motion-Detection)   
-  A script that can detect motion from your webcam  
-܍ [Tic-Tac-Toe](https://github.com/logicguy1/Tic-Tac-Toe)   
-  A simple tic tac toe game with 2 players  
-܍ [Javascript Discord Token Logger](https://github.com/logicguy1/Javascript-Discord-Token-Logger)  
-  Log discord tokens within the discord envioment 
+### MD-Simulator - Molecular Dynamics Simulator
+**Role:** Developer | **Project Type:** SOP (Studie Område Project)
+- Developed molecular dynamics simulation system for scientific research
+- Implemented compatibility with OVITO software for visualization of output dump files
+- Generated v2 format dump files for advanced particle analysis
+- **Technologies:** `Molecular Dynamics`, `OVITO`, `Scientific Computing`, `NumPy`, `Multi Threading`
 
-  </td>
-  </tr>
-</table>
+### DepressedPI - Custom Smartwatch
+**Role:** Team Lead | **Team Size:** 4 Developers
+- Architected smartwatch application with responsive interface
+- Implemented core features: weather radar, step counter using peak analysis, digital clock, and games
+- Created RESTful architecture with React frontend and Python Flask backend
+- **Technologies:** `React`, `Python Flask`, `RESTful API Design`
+
+### Thunderhook - Discord / Thunderstore Integration
+**Role:** Creator | **Community Project**
+- Developed webhook integration between Thunderstore mod platform and Discord for Lethal Company
+- Enabled live mod update notifications within community Discord servers
+- Implemented partnership system for Discord communities
+- **Technologies:** `Discord API`, `Webhooks`, `Python`
+
+### ReceiptDB - Financial Management Application
+**Role:** Solo Developer
+- Created personal financial web application for purchase management and receipt tracking
+- Implemented self-calibrating OCR feature for receipt scanning and data extraction
+- Built search functionality for warranty claim verification
+- **Technologies:** `Python Flask`, `Jinja2`, `OCR`, `Database Design`
+
+### Drive-Quiz - Driving Test Preparation
+**Role:** Developer
+- Built interactive quiz application for Danish driving schools
+- Implemented real-time data exchange using WebSockets for live quiz feedback
+- **Technologies:** `WebSockets`, `SocketIO`, `ReactJS`, `Real-time Applications`
+
+### Discox - Community Discord Bot
+**Role:** Project Manager & Developer | **Duration:** 1 Year
+- Planned and developed infrastructure for community-driven Discord bot
+- Maintained project with comprehensive documentation and installation guides
+- **Technologies:** `Python`, `Discord API`, `Community Management`
+
+### The Cookbook - Open Source Recipe Collection
+**Role:** Creator | **Community Project**
+- Established open-source platform for collaborative recipe sharing
+- **Technologies:** `Markdown`, `Git`, `Community Collaboration`
 
 ### My gists
 
